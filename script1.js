@@ -10,3 +10,5 @@ promedio = sumatoria/numeros.length;
 document.getElementById("resultado").value = sumatoria;
 
 document.getElementById("promedio").value = promedio;
+
+console.log(sumatoria);
